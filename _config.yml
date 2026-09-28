@@ -43,7 +43,6 @@ author: STARTERMAN602
 copyright: "Arnold(022)HCI (c) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Exploration blog for future innovation of Human-Computer Interaction technology.
   "The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it." — Mark Weiser
 
 baseurl: "" # the subpath of your site, e.g. /blog
