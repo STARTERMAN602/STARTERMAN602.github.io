@@ -1,4 +1,6 @@
 home:
   heading: "Arnold HCI & Device Inovation Lab"
-  subheading: "Exploration blog for future innovation of HCI technology"
+  subheading: >-
+  Exploration blog for future innovation of HCI technology
+  {{ site.description }}
   banner: "Your image url"
