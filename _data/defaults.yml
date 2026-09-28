@@ -1,5 +1,4 @@
 home:
   heading: "Arnold HCI & Device Inovation Lab"
-  subheading: Exploration blog for future innovation of HCI technology
-  {{ site.description }}
+  subheading: "The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it. — Mark Weiser"
   banner: "Your image url"
