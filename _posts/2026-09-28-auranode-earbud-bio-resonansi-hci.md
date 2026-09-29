@@ -5,7 +5,7 @@ date: 2026-09-28 08:00:00 +0700
 categories: [HCI, Inovasi Peranti]
 tags: [auranode, eeg, neuromodulasi, biofeedback, imk, wearable]
 banner: "assets/images/banners/jeffery-ho-oITfawv6t-8-unsplash.jpg"
-top: true
+top: 1
 ---
 
 > *"Good design is actually a lot harder to notice than poor design, in part because good designs fit our needs so well that the design is invisible."*  
