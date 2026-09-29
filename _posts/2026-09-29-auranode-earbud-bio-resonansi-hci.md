@@ -4,7 +4,7 @@ title: "AuraNode: Eksplorasi Earbud Bio-Resonansi & Neuromodulasi Mood Masa Depa
 date: 2026-09-29 11:30:00 +0700
 categories: [HCI, Inovasi Peranti]
 tags: [auranode, eeg, neuromodulasi, biofeedback, imk, wearable]
-banner: "/assets/images/banners/jeffery-ho-olTfawv6t-8-unsplash(1).jpg"
+banner: "/assets/images/banners/jeffery-ho-olTfawv6t-8-unsplash.jpg"
 top: true
 ---
 
